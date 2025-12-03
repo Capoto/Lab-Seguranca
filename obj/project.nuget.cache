@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xc9W58V7EwRQ37/yEJteyOCNuUAnUBX5U2ttjMMK62dwK6kO71jO2yyvtzzezFTWvYE2QWBTLM/ASlibDswAuw==",
+  "success": true,
+  "projectFilePath": "/home/heitor/C#/Securanca/Securanca.csproj",
+  "expectedPackageFiles": [
+    "/home/heitor/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/heitor/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/heitor/.nuget/packages/mysqlconnector/2.5.0/mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

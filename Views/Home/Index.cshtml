@@ -1,0 +1,31 @@
+﻿@model Login
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<br /><br />
+
+
+<center>
+    <h1 class="text-danger">@ViewBag.Mensagem </h1>
+</center>
+<br />
+<div class="text-center">
+
+    <form method="post">
+
+        <label class="form-label" asp-for="user"></label>
+        <input class="form-control" asp-for="user" />
+
+        <br /><br />
+        <label class="form-label" asp-for="password"></label>
+        <input type="password" class="form-control" asp-for="password" />
+
+        <br /><br />
+        <button type="submitt">Entrar</button>
+
+    </form>
+
+
+</div>
