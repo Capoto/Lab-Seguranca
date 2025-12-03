@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Securanca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92513b5cdc6e1adad20330007662b1ef83fc1f51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23134305b5027b9f9ad049a22290944b7ca73d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Securanca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Securanca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
