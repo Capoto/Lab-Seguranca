@@ -8,7 +8,11 @@ html {
   }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
@@ -19,4 +23,29 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+
+.menu {
+
+
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+}
+
+.form-control {
+
+  margin-left: 10px;
+  width: 250px;
+}
+
+
+label {
+
+  font-size: 26px;
+}
+
+button {
+
+  width: 250px;
 }

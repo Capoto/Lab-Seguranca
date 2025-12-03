@@ -10,22 +10,26 @@
 <center>
     <h1 class="text-danger">@ViewBag.Mensagem </h1>
 </center>
-<br />
-<div class="text-center">
-
-    <form method="post">
-
-        <label class="form-label" asp-for="user"></label>
-        <input class="form-control" asp-for="user" />
-
-        <br /><br />
-        <label class="form-label" asp-for="password"></label>
-        <input type="password" class="form-control" asp-for="password" />
-
-        <br /><br />
-        <button type="submitt">Entrar</button>
-
-    </form>
+<br /><br />
+<center>
 
 
-</div>
+    <div class="menu bg-info">
+        <form method="post">
+
+            <br /> <br />
+            <label class="form-label text-light" asp-for="user">User</label>
+            <input class="form-control" asp-for="user" />
+
+            <br />
+            <label class="form-label text-light" asp-for="password">Password</label>
+            <input type="password" class="form-control" asp-for="password" />
+
+            <br /><br />
+            <button class="btn btn-light" type="submitt">Entrar</button>
+
+        </form>
+
+    </div>
+
+</center>
